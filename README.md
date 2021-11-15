@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Cedric </h2>
+<h3 align="center">A passionate backend developer from China</h3>
+
 Hello I'm Cedric, nice to meet you.
 ![](https://github-readme-stats.vercel.app/api?username=Cedric0927)
