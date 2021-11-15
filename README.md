@@ -26,7 +26,10 @@ All you need is the plan, the road mp, and the courage to press on to yourdestin
 
 <img src="https://komarev.com/ghpvc/?username=Cedric0927" alt="cedric" />
 <img align="left" src="https://readme-stats-dmego.vercel.app/api?username=Cedric0927&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Cedric0927) -->
-<!--START_SECTION:waka-->
 
-<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243543%20lines%20of%20code-blue) -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cedric0927&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric0927&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
+</a> -->
