@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Cedric </h2>
 <h3 align="center">A passionate developer from China</h3>
 
-All you need is the plan, the road mp, and the courage to press on to yourdestination.
+All you need is the plan, the road map, and the courage to press on to your destination.
 
 花有再开日，人无再少年。
 
